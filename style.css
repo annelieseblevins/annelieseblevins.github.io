@@ -132,7 +132,7 @@ li {
     margin:0 0 10px 0;   
 }
 a {
-    color: #96C4D8;
+    color: #79B4CD;
     font-weight: bold;
 }
 a:hover{
@@ -200,7 +200,7 @@ MENU STUFF
 
 .menu li a {
         display: block;
-        color:#96C4D8;
+        color:#79B4CD;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
