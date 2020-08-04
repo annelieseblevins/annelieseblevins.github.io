@@ -73,7 +73,7 @@ textarea {
 \*------------------------------------*/
 html {
     background-color: #ffffff; 
-    color: #0B353F;
+    color: #214753;
     font: 14px/1.5 'Karla', sans-serif;
 }
 body {
@@ -96,6 +96,14 @@ body {
 }
     .title {
         font-size: 48px;
+        font-color: #548BA1;
+        font-weight: normal;
+        line-height: 1;
+    }
+
+    .subtitle {
+        font-size: 36px;
+        font-color: #548BA1;
         font-weight: normal;
         line-height: 1;
     }
@@ -124,11 +132,11 @@ li {
     margin:0 0 10px 0;   
 }
 a {
-    color: #c94343;
+    color: #96C4D8;
     font-weight: bold;
 }
 a:hover{
-    color: #0B353F;
+    color: #214753;
     -webkit-transition: color 0.2s ease;
     -moz-transition: color 0.2s ease;
     -o-transition: color 0.2s ease;
@@ -192,14 +200,14 @@ MENU STUFF
 
 .menu li a {
         display: block;
-        color:#c94343;
+        color:#96C4D8;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
     }
 
 .menu li a:hover {
-        color: #0B353F;
+        color: #214753;
     }
 }
 
